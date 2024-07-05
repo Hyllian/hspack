@@ -1,0 +1,5 @@
+#reference "crt-royale-no-scanlines.slangp"
+JINC2_SINC = "0.880000"
+beam_spot_power = "0.320000"
+beam_horiz_filter = "1.000000"
+mask_type = "1.000000"

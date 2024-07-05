@@ -1,0 +1,3 @@
+#reference "../../../1080p/shadow-mask/guest.r/crt-guest-advanced-rgb.slangp"
+shadowMask = "11.000000"
+mshift = "0.500000"

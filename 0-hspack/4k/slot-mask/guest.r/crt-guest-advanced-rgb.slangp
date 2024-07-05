@@ -1,0 +1,6 @@
+#reference "../../../1080p/slot-mask/guest.r/crt-guest-advanced-rgb.slangp"
+shadowMask = "11.000000"
+mask_zoom = "1.000000"
+slotmask = "0.500000"
+slotmask1 = "0.500000"
+slotms = "2.000000"

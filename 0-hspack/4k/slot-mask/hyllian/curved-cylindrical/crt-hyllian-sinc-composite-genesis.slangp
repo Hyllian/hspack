@@ -1,0 +1,3 @@
+#reference "../crt-hyllian-sinc-composite-genesis.slangp"
+CURVATURE = "1.000000"
+WARP_X = "0.000000"

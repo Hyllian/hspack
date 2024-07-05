@@ -1,0 +1,3 @@
+#reference "../crt-guest-advanced-downsampling-4x.slangp"
+warpY = "0.040000"
+csize = "0.005000"

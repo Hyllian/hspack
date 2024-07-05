@@ -1,0 +1,3 @@
+#reference "../../aperture-grille/guest.r/crt-guest-advanced-composite-sharp.slangp"
+shadowMask = "11.000000"
+mshift = "1.000000"

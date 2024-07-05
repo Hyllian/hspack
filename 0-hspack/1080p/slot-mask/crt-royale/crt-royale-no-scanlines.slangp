@@ -1,0 +1,3 @@
+#reference "../../aperture-grille/crt-royale/crt-royale-no-scanlines.slangp"
+beam_spot_power = "0.010000"
+mask_type = "1.000000"

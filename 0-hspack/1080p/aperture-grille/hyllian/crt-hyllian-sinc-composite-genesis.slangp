@@ -1,0 +1,5 @@
+#reference "crt-hyllian-sinc.slangp"
+LUT_selector_param = "1.000000"
+HFILTER_PROFILE = "2.000000"
+PHOSPHOR_LAYOUT = "2.000000"
+BRIGHTBOOST = "1.300000"

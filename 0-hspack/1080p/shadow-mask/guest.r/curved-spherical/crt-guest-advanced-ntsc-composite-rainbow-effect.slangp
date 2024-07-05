@@ -1,0 +1,4 @@
+#reference "../crt-guest-advanced-ntsc-composite-rainbow-effect.slangp"
+warpX = "0.030000"
+warpY = "0.040000"
+csize = "0.005000"

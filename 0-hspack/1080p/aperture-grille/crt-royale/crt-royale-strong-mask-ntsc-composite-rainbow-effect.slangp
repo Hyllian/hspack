@@ -1,0 +1,4 @@
+#reference "crt-royale-strong-mask-ntsc-composite.slangp"
+chroma_scale = "4.000000"
+cust_artifacting = "0.500000"
+ntsc_artifacting_rainbow = "1.000000"

@@ -1,0 +1,6 @@
+#reference "../../aperture-grille/hyllian/crt-hyllian-rgb.slangp"
+BEAM_MIN_WIDTH = "1.000000"
+SCANLINES_STRENGTH = "0.550000"
+BRIGHTBOOST = "1.000000"
+PHOSPHOR_LAYOUT = "11.000000"
+CRT_ANTI_RINGING = "1.000000"

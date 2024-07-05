@@ -1,0 +1,3 @@
+#reference "../crt-guest-advanced-rgb.slangp"
+warpY = "0.040000"
+csize = "0.005000"

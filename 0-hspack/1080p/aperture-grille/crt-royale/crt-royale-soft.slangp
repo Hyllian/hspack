@@ -1,0 +1,4 @@
+#reference "crt-royale-strong-mask-soft.slangp"
+beam_min_sigma = "0.115000"
+beam_max_sigma = "0.285000"
+beam_spot_power = "0.010000"

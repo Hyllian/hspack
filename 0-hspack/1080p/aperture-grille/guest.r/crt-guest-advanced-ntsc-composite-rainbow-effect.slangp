@@ -1,0 +1,4 @@
+#reference "crt-guest-advanced-ntsc-composite.slangp"
+cust_artifacting = "1.000000"
+ntsc_rainbow1 = "1.000000"
+ntsc_taps = "24.000000"

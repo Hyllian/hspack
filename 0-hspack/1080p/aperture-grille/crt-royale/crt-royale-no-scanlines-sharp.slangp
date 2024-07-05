@@ -1,0 +1,3 @@
+#reference "crt-royale-no-scanlines.slangp"
+JINC2_SINC = "0.880000"
+beam_horiz_filter = "1.000000"

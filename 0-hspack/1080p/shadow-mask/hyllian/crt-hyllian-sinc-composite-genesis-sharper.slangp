@@ -1,0 +1,8 @@
+#reference "../../aperture-grille/hyllian/crt-hyllian-sinc-composite-genesis-sharper.slangp"
+BEAM_MIN_WIDTH = "0.860000"
+SCANLINES_STRENGTH = "0.580000"
+BRIGHTBOOST = "1.100000"
+PHOSPHOR_LAYOUT = "9.000000"
+MASK_DARK_STRENGTH = "0.250000"
+MASK_LIGHT_STRENGTH = "0.500000"
+SCANLINES_SHAPE = "0.000000"
